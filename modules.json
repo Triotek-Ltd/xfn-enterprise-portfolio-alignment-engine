@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "xfn16_1",
+    "module_label": "XFN.16.1 - Initiative & Project Logging",
+    "module_title": "Initiative & Project Logging",
+    "module_slug": "initiative_and_project_logging",
+    "app_code": "xfn16",
+    "app_label": "XFN 16 - Enterprise Portfolio Alignment Engine",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn16_3",
+    "module_label": "XFN.16.3 - Portfolio Optimization Recommendations",
+    "module_title": "Portfolio Optimization Recommendations",
+    "module_slug": "portfolio_optimization_recommendations",
+    "app_code": "xfn16",
+    "app_label": "XFN 16 - Enterprise Portfolio Alignment Engine",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn16_2",
+    "module_label": "XFN.16.2 - Strategic Alignment Analysis",
+    "module_title": "Strategic Alignment Analysis",
+    "module_slug": "strategic_alignment_analysis",
+    "app_code": "xfn16",
+    "app_label": "XFN 16 - Enterprise Portfolio Alignment Engine",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  }
+]
